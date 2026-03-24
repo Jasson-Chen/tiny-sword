@@ -61,7 +61,7 @@ tiny-swords-game/
 
 ### 4.1 素材路径前缀
 
-所有素材位于：`Tiny Swords (Free Pack).zip` 请仔细解压并放置好素材的位置以便后续调用
+所有素材位于：`Tiny Swords.zip` 请仔细解压并放置好素材的位置以便后续调用
 
 ### 4.2 Tilemap 结构
 
